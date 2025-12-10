@@ -1,4 +1,4 @@
-package com.egov.profileservice;
+package com.egov.commandservice;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.cloud.netflix.eureka.EurekaDiscoveryClient;
